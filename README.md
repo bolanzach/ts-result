@@ -1,0 +1,2 @@
+# ts-result
+Typescript ResultType
